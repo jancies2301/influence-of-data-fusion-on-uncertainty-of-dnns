@@ -1,4 +1,4 @@
-# Influence of Data Fusion on Uncertainty of DNNs
+# Influence of Data Fusion on Uncertainty of Deep Neural Networks for Semantic Segmentation
 
 This repository contains experiments for studying how different multimodal data fusion strategies affect the uncertainty behavior of deep neural networks in remote sensing segmentation tasks.
 ## Repository structure
